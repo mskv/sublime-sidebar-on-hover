@@ -4,7 +4,7 @@
 
 ## Platform support
 
-Currently it only works for Sublime Text 3 on OS X. Tested on Sublime Text 3 build 3083, OS X El Capitan 10.11.2.
+Currently it only works for Sublime Text 3 on OS X. Tested on Sublime Text 3 build 3103, OS X El Capitan 10.11.2.
 
 ## How it works
 
